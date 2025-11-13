@@ -1,3 +1,1 @@
-# Python-Game
-I have created a snake game using my basic understanding of python by 
-Miracle Nkundabela
+Welcome to my Python Work where all the magic for Python happens 
