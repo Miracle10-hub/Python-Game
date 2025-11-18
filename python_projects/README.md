@@ -1,0 +1,1 @@
+# Python Student Projects\n\nIncludes simple student-friendly versions of exercises for GitHub.\n

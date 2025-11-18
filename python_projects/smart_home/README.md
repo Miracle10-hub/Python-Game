@@ -1,0 +1,1 @@
+# Smart Home\n\nStudent project converted to Python.\n

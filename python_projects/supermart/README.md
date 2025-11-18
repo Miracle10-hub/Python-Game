@@ -1,0 +1,1 @@
+# Supermart\n\nStudent project converted to Python.\n

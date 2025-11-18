@@ -1,0 +1,1 @@
+# Grocery Price Manager\n\nStudent project converted to Python.\n
